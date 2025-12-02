@@ -29,12 +29,9 @@ Este es el stack con el que más disfruto y trabajo:
 * **Correo Electrónico:** yaircostaperez@gmail.com
 
 ---
-###  Mi Actividad en GitHub
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YairHamir&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YairHamir&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Next.js%3BPython%3BPrisma%3BDjango%3BSQL" alt="Typing SVG" />
+</p>
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)](tu_link)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)](tu_link)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)](tu_link)
