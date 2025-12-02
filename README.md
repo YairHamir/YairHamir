@@ -21,10 +21,7 @@ Este es el stack con el que más disfruto y trabajo:
 | **Frameworks/Libs** | Next.js / Django / Flask / Tailwind CSS |
 | **Bases de Datos** | SQL / Prisma (ORM) |
 | **Control de Versiones** | GitHub |
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)](tu_link)
-[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)](tu_link)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)](tu_link)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)](tu_link)
+
 
 ###  Contacto
 
@@ -32,5 +29,16 @@ Este es el stack con el que más disfruto y trabajo:
 * **Correo Electrónico:** yaircostaperez@gmail.com
 
 ---
+###  Mi Actividad en GitHub
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_NOMBRE_DE_USUARIO&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_NOMBRE_DE_USUARIO&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)](tu_link)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)](tu_link)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)](tu_link)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)](tu_link)
+
 
 
