@@ -8,7 +8,7 @@ Soy un estudiante de **último año de Ingeniería en Informática**, con una fu
 
 ###  ¿En qué estoy trabajando actualmente?
 
-Actualmente estoy enfocado en mi proyecto de tesis/graduación, el cual se centra en **Actualmente estoy enfocado en mi proyecto de tesis, que consiste en el desarrollo de un **Sistema de Tecnología Operacional (OT)**. Además, estoy explorando el desarrollo de aplicaciones y perfeccionando mis habilidades en la optimización de bases de datos.**.
+**Actualmente estoy enfocado en mi proyecto de tesis, que consiste en el desarrollo de un **Sistema de Tecnología Operacional (OT)**. Además, estoy explorando el desarrollo de aplicaciones y perfeccionando mis habilidades en la optimización de bases de datos.**.
 Además, estoy explorando el desarrollo de aplicaciones y perfeccionando mis habilidades en la optimización de bases de datos.
 
 ###  Herramientas y Stack
