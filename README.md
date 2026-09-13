@@ -1,6 +1,6 @@
 ##  ¡Hola! Soy Yair Hamir
 
-###  Un Futuro Ingeniero de Software
+###  Próximo Ingeniero de Software
 
 Soy un estudiante de **último año de Ingeniería en Informática**, con una fuerte pasión por el desarrollo de software y la resolución de problemas complejos. Me estoy preparando para iniciar mi carrera profesional en el área de **Desarrollo Web**.
 
